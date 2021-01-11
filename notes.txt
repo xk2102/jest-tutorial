@@ -1,0 +1,12 @@
+npm init
+npm i --save-dev jest
+
+"scripts": {
+    "test": "jest"
+  },
+
+npm test
+
+"scripts": {
+    "test": "jest --coverage"
+  },
